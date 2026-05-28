@@ -55,11 +55,9 @@ Contributions, feedback, and discussions are welcome.
 
 ## Repositories
 
-### Main Platform
-- https://github.com/Voult-dev/voult
+- Main Platform: https://github.com/Voult-dev/voult
 
-### Website
-- https://www.voult.dev/
+- Website: https://www.voult.dev/
 
 ---
 
